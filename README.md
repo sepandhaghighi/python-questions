@@ -102,6 +102,12 @@
 <td align="center"><a href="https://github.com/sepandhaghighi/python-questions/tree/master/Quiz/Q6">الگوریتم</a></td>
 <td align="center">صدرا صبوری</td>
 </tr>
+<tr>
+<td align="center">7</td>
+<td align="center">1</td>
+<td align="center"><a href="https://github.com/sepandhaghighi/python-questions/tree/master/Quiz/Q7">شبیه سازی مونت-کارلو / محاسبات</a></td>
+<td align="center">سپند حقیقی</td>
+</tr>
 
 
 
