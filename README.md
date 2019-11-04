@@ -55,6 +55,51 @@
 
 </table>  
 
+## کوییز ها
+
+
+<table style="text-align:center;">
+
+<tr>
+<td align="center">شماره تمرین</td>
+<td align="center">تعداد سوالات</td>
+<td align="center">موضوع</td>
+<td align="center">طراحان</td>
+</tr>
+<tr align="center">
+<td align="center">1</td>
+<td align="center">3</td>
+<td align="center">مقدمات پایتون</td>
+<td align="center">فرزانه قاسمی جاوید / صدرا صبوری</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">4</td>
+<td align="center">حلقه / break / continue</td>
+<td align="center">فرزانه قاسمی جاوید / صدرا صبوری</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">2</td>
+<td align="center">رشته / تابع</td>
+<td align="center"> / سپند حقیقی / نگین مجیدی / امیرمحمد ضیائی</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">1</td>
+<td align="center">مرتن سازی / سرچ</td>
+<td align="center">سپند حقیقی / صدرا صبوری</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center">3</td>
+<td align="center">الگوریتم</td>
+<td align="center">صدرا صبوری</td>
+</tr>
+
+
+
+</table>  
 
 </div>  
 
