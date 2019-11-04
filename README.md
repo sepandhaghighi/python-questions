@@ -69,31 +69,31 @@
 <tr align="center">
 <td align="center">1</td>
 <td align="center">3</td>
-<td align="center">مقدمات پایتون</td>
+<td align="center"><a href="https://github.com/sepandhaghighi/python-questions/tree/master/Quiz/Q1">مقدمات پایتون</a> </td>
 <td align="center">فرزانه قاسمی جاوید / صدرا صبوری</td>
 </tr>
 <tr>
 <td align="center">2</td>
 <td align="center">4</td>
-<td align="center">حلقه / break / continue</td>
+<td align="center"><a href="https://github.com/sepandhaghighi/python-questions/tree/master/Quiz/Q2">حلقه / break / continue</a></td>
 <td align="center"> سپند حقیقی / فرزانه قاسمی جاوید / صدرا صبوری</td>
 </tr>
 <tr>
 <td align="center">3</td>
 <td align="center">2</td>
-<td align="center">رشته / تابع</td>
+<td align="center"><a href="https://github.com/sepandhaghighi/python-questions/tree/master/Quiz/Q3">رشته / تابع</a></td>
 <td align="center"> نگین مجیدی / امیرمحمد ضیائی</td>
 </tr>
 <tr>
 <td align="center">4</td>
 <td align="center">1</td>
-<td align="center">مرتب سازی / جستجو</td>
+<td align="center"><a href="https://github.com/sepandhaghighi/python-questions/tree/master/Quiz/Q4">مرتب سازی / جستجو</a></td>
 <td align="center">سپند حقیقی / صدرا صبوری</td>
 </tr>
 <tr>
 <td align="center">6</td>
 <td align="center">1</td>
-<td align="center">الگوریتم</td>
+<td align="center"><a href="https://github.com/sepandhaghighi/python-questions/tree/master/Quiz/Q6">الگوریتم</a></td>
 <td align="center">صدرا صبوری</td>
 </tr>
 
