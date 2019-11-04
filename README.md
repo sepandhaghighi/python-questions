@@ -29,25 +29,25 @@
 <tr>
 <td align="center">2</td>
 <td align="center">6</td>
-<td align="center">حلقه / break / continue</td>
+<td align="center"><a href="https://github.com/sepandhaghighi/python-questions/tree/master/Homework/HW2">حلقه / break / continue</a></td>
 <td align="center">فرزانه قاسمی جاوید / صدرا صبوری</td>
 </tr>
 <tr>
 <td align="center">3</td>
 <td align="center">6</td>
-<td align="center">رشته</td>
+<td align="center"><a href="https://github.com/sepandhaghighi/python-questions/tree/master/Homework/HW3">رشته</a></td>
 <td align="center">نگین مجیدی / امیرمحمد ضیائی</td>
 </tr>
 <tr>
 <td align="center">4</td>
 <td align="center">5</td>
-<td align="center">تابع / محاسبات</td>
+<td align="center"><a href="https://github.com/sepandhaghighi/python-questions/tree/master/Homework/HW4">تابع / محاسبات</a></td>
 <td align="center">سپند حقیقی / صدرا صبوری</td>
 </tr>
 <tr>
 <td align="center">5</td>
 <td align="center">5</td>
-<td align="center">شبیه سازی مونت-کارلو / محاسبات</td>
+<td align="center"><a href="https://github.com/sepandhaghighi/python-questions/tree/master/Homework/HW5">شبیه سازی مونت-کارلو / محاسبات</a></td>
 <td align="center">سپند حقیقی / صدرا صبوری</td>
 </tr>
 
