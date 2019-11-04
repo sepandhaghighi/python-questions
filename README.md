@@ -23,7 +23,7 @@
 <tr align="center">
 <td align="center">1</td>
 <td align="center">6</td>
-<td align="center"><a href="/tree/master/Homework/HW1">مقدمات پایتون</a></td>
+<td align="center"><a href="https://github.com/sepandhaghighi/python-questions/tree/master/Homework/HW1">مقدمات پایتون</a></td>
 <td align="center">فرزانه قاسمی جاوید / صدرا صبوری</td>
 </tr>
 <tr>
