@@ -91,6 +91,12 @@
 <td align="center">سپند حقیقی / صدرا صبوری</td>
 </tr>
 <tr>
+<td align="center">5</td>
+<td align="center">1</td>
+<td align="center"><a href="https://github.com/sepandhaghighi/python-questions/tree/master/Quiz/Q5">دیکشنری</a></td>
+<td align="center">سپند حقیقی</td>
+</tr>
+<tr>
 <td align="center">6</td>
 <td align="center">1</td>
 <td align="center"><a href="https://github.com/sepandhaghighi/python-questions/tree/master/Quiz/Q6">الگوریتم</a></td>
