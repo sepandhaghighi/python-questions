@@ -92,7 +92,7 @@
 </tr>
 <tr>
 <td align="center">6</td>
-<td align="center">3</td>
+<td align="center">1</td>
 <td align="center">الگوریتم</td>
 <td align="center">صدرا صبوری</td>
 </tr>
