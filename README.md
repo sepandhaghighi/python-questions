@@ -76,18 +76,18 @@
 <td align="center">2</td>
 <td align="center">4</td>
 <td align="center">حلقه / break / continue</td>
-<td align="center">فرزانه قاسمی جاوید / صدرا صبوری</td>
+<td align="center"> سپند حقیقی / فرزانه قاسمی جاوید / صدرا صبوری</td>
 </tr>
 <tr>
 <td align="center">3</td>
 <td align="center">2</td>
 <td align="center">رشته / تابع</td>
-<td align="center"> / سپند حقیقی / نگین مجیدی / امیرمحمد ضیائی</td>
+<td align="center"> نگین مجیدی / امیرمحمد ضیائی</td>
 </tr>
 <tr>
 <td align="center">4</td>
 <td align="center">1</td>
-<td align="center">مرتن سازی / سرچ</td>
+<td align="center">مرتب سازی / جستجو</td>
 <td align="center">سپند حقیقی / صدرا صبوری</td>
 </tr>
 <tr>
