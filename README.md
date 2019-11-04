@@ -61,7 +61,7 @@
 <table style="text-align:center;">
 
 <tr>
-<td align="center">شماره تمرین</td>
+<td align="center">شماره کوییز</td>
 <td align="center">تعداد سوالات</td>
 <td align="center">موضوع</td>
 <td align="center">طراحان</td>
